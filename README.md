@@ -6,6 +6,8 @@ The Whizlab tests can be gotten for as little as $5 on sale, which happens frequ
 
 Udemy offers several courses and practice tests, but I can't speak to their quality either. I have heard that some are not helpful, but their ratings on the site are excellent. _Note: Never buy anything full price on Udemy. There is almost always a sale going on, so just wait a few days for the next one if you can_.
 
+Finally, while not listed here, __you should study the official documentation itself__, as it can provide a lot of insight. See the Thomas Mauerer guide for some specific topics you can read.
+
 - __[Microsoft Learning Path](https://docs.microsoft.com/en-us/learn/certifications/azure-developer)__
 - [Quizlet Flash Cards](https://quizlet.com/_8lt96b?x=1jqt&i=mwv9z)
 - [Thomas Mauerer Study Guide](https://www.thomasmaurer.ch/2020/03/az-204-study-guide-developing-solutions-for-microsoft-azure/)
@@ -17,3 +19,17 @@ Udemy offers several courses and practice tests, but I can't speak to their qual
 - [Multiple Udemy Topics](https://www.udemy.com/topic/microsoft-az-204/)
 
 As of the writing of this guide, ACloudGuru.com does not yet have an official course for the AZ-204 but it is being actively developed.
+
+## How is the test broken down?
+
+According to Thomas Mauerer, the test is broken down by the following sections:
+
+| Topic | Portion of Test Questions |
+| ----- | ------------------------- |
+| Azure Compute | 25-30% |
+| Azure Storage | 10-15% |
+| Azure Security | 15-20% |
+| Monitor, troubleshoot, and optimize | 10-15% |
+| Connect and consume Azure services and third-party services | 25-30% |
+
+On his blog post, he breaks down the Microsoft documentation into the relevant sections for you, so I would recommend checking that out.
