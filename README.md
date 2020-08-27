@@ -33,3 +33,13 @@ According to Thomas Mauerer, the test is broken down by the following sections:
 | Connect and consume Azure services and third-party services | 25-30% |
 
 On his blog post, he breaks down the Microsoft documentation into the relevant sections for you, so I would recommend checking that out.
+
+## CLI Test Tool
+
+From what I saw in most study guides and practice exams, there was a particular emphasis on the Azure CLI and PowerShell commands. So for practice I created a simple .NET Console application that quizzed me on those commnands (for the CLI, I didn't create one for PS). Feel free to utilize this tool, and even submit a pull request to add more questions or a PowerShell version!
+
+It can be located in the `cli-test` directory, and will require the .NET Core SDK to run.
+
+## After the Exam Thoughts
+
+I took the Exam on August 28, 2020 and passed. The breakdown above was pretty accurate, but I think particular attention should be paid to the last bullet "Connect and consume Azure services and third-party services". There were a lot of topics relating the Event Hubs, Event Grid, Service Bus, and Storage Queues. It's important to know which one to use when, and how they interact with each other and other Azure services. You should also know how to create and update Azure services by using the CLI.
