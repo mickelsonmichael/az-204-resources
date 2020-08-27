@@ -1,0 +1,70 @@
+[
+  {
+    "Prompt": "What is the command to create a new Web App?",
+    "Answer": ["az", "webapp", "create"]
+  },
+  {
+    "Prompt": "What is the command to create an AD Group?",
+    "Answer": ["az", "ad", "group", "create"]
+  },
+  {
+    "Prompt": "What is the command to configure logging for a Web App?",
+    "Answer": ["az", "webapp", "log", "config"]
+  },
+  {
+    "Prompt": "What is the command to get a live trail of a log for a Web App?",
+    "Answer": ["az", "webapp", "log", "tail"]
+  },
+  {
+    "Prompt": "What is the command to add a CORS policy to a Web App?",
+    "Answer": ["az", "webapp", "cors", "add"]
+  },
+  {
+    "Prompt": "What is the command to create a Cosmos DB account?",
+    "Answer": ["az", "cosmosdb", "create"]
+  },
+  {
+    "Prompt": "What is the command to get information about any Azure CLI command?",
+    "Answer": ["az", "find"]
+  },
+  {
+    "Prompt": "What is the command to authenticate with Azure?",
+    "Answer": ["az", "login"]
+  },
+  {
+    "Prompt": "What is the command to list your resource groups?",
+    "Answer": ["az", "group", "list"]
+  },
+  {
+    "Prompt": "What is the command to create an Azure Container Registry",
+    "Answer": ["az", "acr", "create"]
+  },
+  {
+    "Prompt": "What is the command to build an image into the Azure Container Registry?",
+    "Answer": ["az", "acr", "registry", "build"]
+  },
+  {
+    "Prompt": "What is the command to create an Azure Key Vault account?",
+    "Answer": ["az", "keyvault", "create"]
+  },
+  {
+    "Prompt": "What is the command to add a value to an Azure Key Vault?",
+    "Answer": ["az", "keyvault", "set"]
+  },
+  {
+    "Prompt": "What is the command to create an Azure Container?",
+    "Answer": ["az", "container", "create"]
+  },
+  {
+    "Prompt": "What is the command to list your Azure Containers?",
+    "Answer": ["az", "container", "list"]
+  },
+  {
+    "Prompt": "What is the command to replicate an Azure Container into another region",
+    "Answer": ["az", "container", "replication", "create"]
+  },
+  {
+    "Prompt": "What is the command to copy data from one storage Blob to another (without AzCopy)?",
+    "Answer": ["az", "storage", "blob", "copy"]
+  }
+]
